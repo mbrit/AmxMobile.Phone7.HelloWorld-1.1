@@ -1,0 +1,13 @@
+w:\code\book\AmxMobile.Phone7.HelloWorld\1.1\AmxMobile.Phone7.HelloWorld\AmxMobile.Phone7.HelloWorld\Bin\Debug\ApplicationIcon.png
+w:\code\book\AmxMobile.Phone7.HelloWorld\1.1\AmxMobile.Phone7.HelloWorld\AmxMobile.Phone7.HelloWorld\Bin\Debug\Background.png
+w:\code\book\AmxMobile.Phone7.HelloWorld\1.1\AmxMobile.Phone7.HelloWorld\AmxMobile.Phone7.HelloWorld\Bin\Debug\AmxMobile.Phone7.HelloWorld.dll
+w:\code\book\AmxMobile.Phone7.HelloWorld\1.1\AmxMobile.Phone7.HelloWorld\AmxMobile.Phone7.HelloWorld\Bin\Debug\AmxMobile.Phone7.HelloWorld.pdb
+w:\code\book\AmxMobile.Phone7.HelloWorld\1.1\AmxMobile.Phone7.HelloWorld\AmxMobile.Phone7.HelloWorld\Bin\Debug\AppManifest.xaml
+w:\code\book\AmxMobile.Phone7.HelloWorld\1.1\AmxMobile.Phone7.HelloWorld\AmxMobile.Phone7.HelloWorld\Bin\Debug\AmxMobile.Phone7.HelloWorld.xap
+w:\code\book\AmxMobile.Phone7.HelloWorld\1.1\AmxMobile.Phone7.HelloWorld\AmxMobile.Phone7.HelloWorld\obj\Debug\ResolveAssemblyReference.cache
+w:\code\book\AmxMobile.Phone7.HelloWorld\1.1\AmxMobile.Phone7.HelloWorld\AmxMobile.Phone7.HelloWorld\obj\Debug\App.g.cs
+w:\code\book\AmxMobile.Phone7.HelloWorld\1.1\AmxMobile.Phone7.HelloWorld\AmxMobile.Phone7.HelloWorld\obj\Debug\MainPage.g.cs
+w:\code\book\AmxMobile.Phone7.HelloWorld\1.1\AmxMobile.Phone7.HelloWorld\AmxMobile.Phone7.HelloWorld\obj\Debug\AmxMobile.Phone7.HelloWorld.g.resources
+w:\code\book\AmxMobile.Phone7.HelloWorld\1.1\AmxMobile.Phone7.HelloWorld\AmxMobile.Phone7.HelloWorld\obj\Debug\AmxMobile.Phone7.HelloWorld.dll
+w:\code\book\AmxMobile.Phone7.HelloWorld\1.1\AmxMobile.Phone7.HelloWorld\AmxMobile.Phone7.HelloWorld\obj\Debug\AmxMobile.Phone7.HelloWorld.pdb
+w:\code\book\AmxMobile.Phone7.HelloWorld\1.1\AmxMobile.Phone7.HelloWorld\AmxMobile.Phone7.HelloWorld\obj\Debug\XapCacheFile.xml

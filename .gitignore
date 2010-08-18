@@ -1,0 +1,8 @@
+*.com
+*.class
+*.dll
+*.exe
+*.pdb
+*scc*
+/bin
+/obj
